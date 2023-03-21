@@ -1,16 +1,13 @@
-### Hi there 👋
+## Embedded 
+* Development using STM32 HAL
+* GUI implementation with Touchgfx
+* Knowledge of autosar AUTOSAR 
 
-<!--
-**ricardmolins/ricardmolins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Linux/Yocto
+Development of custom linux images with with Yocto for development of telecommunication units and infotaiment systes
+* Toby-L4 from u-blox
+* imx-8 from NXP
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Python
+* Development of `tkinter` GUI for embedded system management with Modbus using USB, RS232 or RS485 as physical medium
+* Development of data logging tools for CAN based and standard `.dbc` file. (propietary and J1939)
