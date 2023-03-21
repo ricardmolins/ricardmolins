@@ -2,6 +2,7 @@
 * Development using STM32 HAL
 * GUI implementation with Touchgfx
 * Knowledge of autosar AUTOSAR 
+* Custom drivers development
 
 ## Linux/Yocto
 Development of custom linux images with with Yocto for development of telecommunication units and infotaiment systes
